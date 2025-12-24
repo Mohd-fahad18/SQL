@@ -79,8 +79,8 @@ WHERE brand_name = 'samsung' AND price = 110999
 
 -- -----------------------------------------------------------------------
 -- #3) FIND NUMBER OF ONE PLUS PHONE
--- SELECT COUNT(*) FROM fahad.smartphones
--- WHERE brand_name = 'oneplus'
+SELECT COUNT(*) FROM fahad.smartphones
+WHERE brand_name = 'oneplus'
 
 -- ----------------------------------------------------------------------
 -- #4) Find total number of processor brnd
